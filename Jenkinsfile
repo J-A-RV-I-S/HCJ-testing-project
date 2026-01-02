@@ -16,8 +16,6 @@ pipeline {
 
     stage('Build HCJ Application') {
       steps {
-        echo 'Compiling java source code'
-
         sh '''
         echo 'Good Going...'
         '''
