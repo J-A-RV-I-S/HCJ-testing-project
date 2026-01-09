@@ -2,7 +2,7 @@ pipeline {
   agent any
   
   environment {
-    IMAGE_NAME= "HCJ-testing-project"
+    IMAGE_NAME= "hcj-testing-project"
     IMAGE_TAG= "1.0"
   }
 
